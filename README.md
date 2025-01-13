@@ -16,6 +16,7 @@
 - React (TypeScript)
 - [Zustand](https://zustand.docs.pmnd.rs)
 - [Любой API из этого списка](https://github.com/public-apis/public-apis)
+- [Axios для выполнения запросов](https://axios-http.com)
 
 _Желательно_
 
